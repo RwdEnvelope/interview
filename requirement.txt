@@ -1,0 +1,10 @@
+gradio>=3.44.0
+dashscope
+langgraph
+python-dotenv
+opencv-python
+numpy
+requests
+pyaudio
+soundfile
+sounddevice

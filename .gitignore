@@ -1,0 +1,19 @@
+# 忽略所有 pyc 文件
+*.pyc
+
+# 忽略 __pycache__ 目录
+__pycache__/
+
+# 忽略虚拟环境目录
+venv/
+
+# 忽略环境配置文件
+.env
+
+# 忽略本地数据文件
+data/
+*.log
+*.sqlite3
+
+# 忽略 Jupyter Notebook 的检查点
+.ipynb_checkpoints/
